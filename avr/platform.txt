@@ -1,0 +1,4 @@
+# Technoblogy's boards.txt file for using the ATmega328/168 without an external crystal
+
+name=ATmegaBreadboard
+version=1.0
