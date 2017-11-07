@@ -1,4 +1,4 @@
-# Technoblogy's boards.txt file for using the ATmega328/168 without an external crystal
+# Technoblogy's boards.txt file for using the ATmega328/168 without an external crystal.
 
 menu.chip=Chip
 menu.clock=Clock
