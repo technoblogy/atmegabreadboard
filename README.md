@@ -1,7 +1,7 @@
 ATmegaBreadboard
 ================
 
-For programming a stand-alone ATmega328 or ATmega168.
+For programming a stand-alone ATmega328 or ATmega168. For more information see http://www.technoblogy.com/show?1YO1
 
 
 This is a boards.txt file that adds options to the Arduino IDE's Board menu for programming a stand-alone ATmega328 or ATmega168. It includes options without an external crystal, using the ATmega328/168's internal 1MHz or 8MHz clock, and it allows you to choose any of the B.O.D. (brown out detection) options.
